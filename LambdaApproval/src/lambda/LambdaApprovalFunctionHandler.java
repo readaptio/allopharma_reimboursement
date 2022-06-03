@@ -18,6 +18,7 @@ import com.amazonaws.services.lambda.runtime.RequestHandler;
 /**
  * 
  * @author ctchamdjou
+ * Add comment
  *
  */
 public class LambdaApprovalFunctionHandler implements
